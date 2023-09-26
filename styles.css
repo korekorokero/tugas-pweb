@@ -130,4 +130,7 @@ h1{
   .yt-column, .row1, .row2   {
     flex-direction: column;
   }
+  .link-fav{
+    padding-bottom: 50px;
+  }
 }
